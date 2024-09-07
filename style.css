@@ -1,0 +1,29 @@
+html {
+  background-color: #150D70;
+  width: 100%;
+}
+
+.commingsoon {
+  padding: 15%;
+  text-align: center;
+  height: 100%;
+}
+
+.commingsoon img {
+  width: 200px;
+}
+
+.commingsoon a {
+  color: yellow;
+  font-size: 20px;
+}
+
+.credits {
+  height: 50px;
+  background-color: #1a1089;
+}
+
+.credits p {
+  color: blue;
+  padding: 30px 5px;
+}
